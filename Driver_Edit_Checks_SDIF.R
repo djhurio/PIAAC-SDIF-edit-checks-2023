@@ -6,8 +6,7 @@ if (length(setdiff(reqPkgs, rownames(installed.packages()))) > 0) {
 	  repos = "https://packagemanager.posit.co/cran/__linux__/jammy/latest"
 	)
 }
-for (pkg in reqPkgs)
-{
+for (pkg in reqPkgs) {
 	library(pkg, character.only = TRUE)
 }  
 
@@ -15,6 +14,11 @@ FOLDER <- file.path(".")
 setwd(FOLDER)
 source("Edit_Checks_SDIF.R")
 
+file.copy(
+  from = "../PIAAC-data-2023/result/CY2_Final_SDIF_LVA.csv",
+  to = "CY2_FINAL_SDIF_LVA.CSV",
+  overwrite = TRUE
+)
 
 COUNTRY <- "LVA"
 COUNTRYNAME <- "Latvia"
