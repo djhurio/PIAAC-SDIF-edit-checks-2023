@@ -75,27 +75,27 @@ Notes:
 9          2       01    NA       NA      NA        04       NA       NA       NA       NA        NA        NA      NA        NA        NA       NA          NA          NA          NA          NA       NA      NA
 10        NA       04    NA       NA      NA        NA       NA       NA       NA       NA        NA        NA      NA        NA        NA       NA          NA          NA          NA          NA       NA      NA
    ZZ1A_02 ZZ1A_03 ZZ1B_01 ZZ1B_02 ZZ1B_03 ZZ2 ZZ3 ZZ4 ZZ5 ZZ6_01 ZZ6_02 ZZ6_03 ZZ6_04 ZZ6_05 ZZ6_06 ZZ6_07 ZZ7 ZZ8 ZZ9 CONTACTTIME1 CONTACTTIME2 CONTACTTIME3 CONTACTTOTAL               ENDSCR PROB_OVERALL_HH
-1       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            3            1            2            6                        0.04041620088
-2        0       0      NA      NA      NA   5   2   2   2      0      0      0      0      0      0      1   3   2   2            1            1            0            2 2023-06-09T18:33:57Z   0.04040408259
-3       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            1            1            4            6                        0.04040408259
-4       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            2            0            0            2                        0.04040408259
-5        0       0      NA      NA      NA   3   2   2   2      0      0      0      0      0      0      1   3   1   1            0            0            0            0 2022-11-24T16:47:38Z   0.04014912532
-6       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            2            0            0            2                        0.04052192236
-7       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            3            1            2            6                        0.04045325779
-8       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            3            1            2            6                        0.04045325779
-9       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            1            0            5            6                        0.04045325779
-10      NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            1            0            1            2                        0.04052192236
+1       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            3            1            2            6                                   NA
+2        0       0      NA      NA      NA   5   2   2   2      0      0      0      0      0      0      1   3   2   2            1            1            0            2 2023-06-09T18:33:57Z              NA
+3       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            1            1            4            6                                   NA
+4       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            2            0            0            2                                   NA
+5        0       0      NA      NA      NA   3   2   2   2      0      0      0      0      0      0      1   3   1   1            0            0            0            0 2022-11-24T16:47:38Z              NA
+6       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            2            0            0            2                                   NA
+7       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            3            1            2            6                                   NA
+8       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            3            1            2            6                                   NA
+9       NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            1            0            5            6                                   NA
+10      NA      NA      NA      NA      NA  NA  NA  NA  NA     NA     NA     NA     NA     NA     NA     NA  NA  NA  NA            1            0            1            2                                   NA
    PROB_OVERALL_PERS THEOR_HBWT THEOR_PBWT DOBYY DOBMM CALCAGE DIAGERANGE AGE_R IMPFLGAGER GENDER GENDER_R DISP_MAIN COMPLETEFLG WEIGHTFLG EXCFLG REGFLG TECHPROB TRIMGRPS RAKEDIM1 RAKEDIM2 RAKEDIM3 RAKEDIM4 RAKEDIM5
-1                 NA  24.742553         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-2      0.02020204129  24.749974  49.499948  1987     7      35         NA    NA         NA      1       NA        01          NA         1     NA     NA       NA        1        4        2        1       NA       NA
-3                 NA  24.749974         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-4                 NA  24.749974         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-5      0.04014912532  24.907143  24.907143  1972     7      50         NA    NA         NA      1       NA        01          NA         1     NA     NA       NA        1        7        1        1       NA       NA
-6                 NA  24.678000         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-7                 NA  24.719888         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-8                 NA  24.719888         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-9      0.02022662890  24.719888  49.439776    NA    NA      62         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
-10                NA  24.678000         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+1                 NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+2                 NA         NA         NA  1987     7      35         NA    NA         NA      1       NA        01          NA         1     NA     NA       NA        1        4        2        1       NA       NA
+3                 NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+4                 NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+5                 NA         NA         NA  1972     7      50         NA    NA         NA      1       NA        01          NA         1     NA     NA       NA        1        7        1        1       NA       NA
+6                 NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+7                 NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+8                 NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+9                 NA         NA         NA    NA    NA      62         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
+10                NA         NA         NA    NA    NA      NA         NA    NA         NA     NA       NA        NA          NA         0     NA     NA       NA        1       NA       NA       NA       NA       NA
    RAKEDIM6 RAKEDIM7 PERSVAR1 PERSVAR2 PERSVAR3 PERSVAR4 PERSVAR5 DUVAR_SCRRESP1 DUVAR_SCRRESP2 DUVAR_SCRRESP3 DUVAR_SCRRESP4 DUVAR_SCRRESP5 DUVAR_ALL1 DUVAR_ALL2 DUVAR_ALL3 DUVAR_ALL4 DUVAR_ALL5 AREAVAR1 AREAVAR2
 1        NA       NA       NA       79       92       74       56             NA             NA             39             NA             NA          1          1         NA         NA         NA        2       10
 2        NA       NA        2       99       91       94       35              2              0             71             NA             NA          3          3         NA         NA         NA        1        1
@@ -3959,25 +3959,20 @@ If your country is using the dashboard, verify that there are no missing values 
 [1] "All records within CASEID have the same ENDSCR"
 [1] "No CASEID with multiple ENDSCR found"
 
-Verify that there's no difference between these two variables
-                         N N Miss                Minimum                   Mean                  Median               Maximum
-PROB_OVERALL_HH      27906      0  0.0378787878790000018  0.0404216017126855856  0.04040408258699999811 0.0447761194029999976
-PROB_OVERALL_HH_CHK  27906      0  0.0378787878790000018  0.0404216017127261990  0.04040408258726803370 0.0447761194029999976
-DIFF_PROB_OVERALL_HH 27906      0 -0.0000000000004999959 -0.0000000000000406162 -0.00000000000007303186 0.0000000000004969011
+Check: verify that these results match your calculations for the HH overall Probability of selection.
+                        N N Miss    Minimum      Mean     Median    Maximum
+PROB_OVERALL_HH_CHK 27906      0 0.03787879 0.0404216 0.04040408 0.04477612
 
-Verify that there's no difference between these two variables
+Check: verify that these results match your calculations for the Person overall Probability of selection.
                          N N Miss    Minimum       Mean     Median    Maximum
-PROB_OVERALL_PERS     7827  20079 0.01011027 0.02881635 0.02033452 0.04477612
 PROB_OVERALL_PERS_CHK 7827  20079 0.01011027 0.02881635 0.02033452 0.04477612
 
-Verify that there's no difference between these two variables
+VCheck: verify that these results match your calculations for the theoretical HH base weight.
                    N N Miss  Minimum     Mean   Median Maximum      Sum
-THEOR_HBWT     27906      0 22.33333 24.74035 24.74997    26.4 690404.2
 THEOR_HBWT_CHK 27906      0 22.33333 24.74035 24.74997    26.4 690404.2
 
-Verify that there's no difference between these two variables
+Check: verify that these results match your calculations for the theoretical Person base weight
                   N N Miss  Minimum     Mean   Median  Maximum      Sum
-THEOR_PBWT     7827  20079 22.33333 40.66349 49.17746 98.90936 318273.1
 THEOR_PBWT_CHK 7827  20079 22.33333 40.66349 49.17746 98.90936 318273.1
 
 Cases where DISP_CIBQ=1 - Verify that all values are non-missing
@@ -6465,20 +6460,20 @@ This takes into account your AICs, which for Latvia is          =  125
 Actual Assessment Yield; DISP_MAIN(01,07-09, 90)                =  5799 
 
 Weighted SCR RR components - THEOR_HBWT
-     C_S   HH_S     I_VA     U_VA     K_VA    I_AGE    U_AGE    K_AGE ELIGIBLE COMPLETE    SCR_RR
-1 186759 683575 52041.29 129950.7 553624.3 44351.08 269086.6 232496.4 501176.9   186759 0.3726408
+  C_S HH_S I_VA  U_VA  K_VA  I_AGE U_AGE K_AGE ELIGIBLE COMPLETE SCR_RR
+1   0    0    0     0     0      0     0     0      NaN        0     NA
 
 Weighted BQ RR components - THEOR_PBWT
-       C_B     DS_B     SP_B      D_B   LRN_B I_B COMPLETE ELIGIBLE     BQ_RR
-1 257180.2 123.7499 318223.6 742.3209 394.906   0 257303.9 317086.4 0.8114631
+  C_B DS_B SP_B D_B LRN_B I_B COMPLETE ELIGIBLE BQ_RR
+1   0    0    0   0     0   0        0        0   NaN
 
 Weighted ASSESSMENT RR components - THEOR_PBWT
-       C_A     LR_A      C_B      D_A      T_A I_A COMPLETE ELIGIBLE ASSMNT_RR
-1 228227.2 221.7614 257180.2 1680.111 4025.616   0   228449 251474.4 0.9084381
+  C_A LR_A C_B D_A T_A I_A COMPLETE ELIGIBLE ASSMNT_RR
+1   0    0   0   0   0   0        0        0       NaN
 
 [1] "Weighted Response Rates Summary - SCREENER"
-  SCR_RR BQ_RR ASSMNT_RR  ORR1  ORR2
-1  37.3% 81.1%     90.8% 30.2% 27.5%
+  SCR_RR BQ_RR ASSMNT_RR ORR1 ORR2
+1    NA%  NaN%      NaN%  NA%  NA%
 
 Unweighted SCR RR components
    C_S  HH_S I_VA  U_VA  K_VA  I_AGE U_AGE K_AGE ELIGIBLE COMPLETE    SCR_RR
@@ -6496,27 +6491,8 @@ Unweighted ASSESSMENT RR components
   SCR_RR BQ_RR ASSMNT_RR  ORR1  ORR2
 1  37.3% 84.0%     90.8% 31.3% 28.4%
 
-Listing of the largest 20 theoretical household base weight   ID_PSU ID_SSU ID_HH ID_OTH THEOR_HBWT PROB_PSU PROB_SSU    PROB_HH PROB_OTH
-1     947     NA    22     NA   26.40000        1       NA 0.03787879       NA
-2     947     NA    49     NA   26.40000        1       NA 0.03787879       NA
-3     947     NA    75     NA   26.40000        1       NA 0.03787879       NA
-4     947     NA   102     NA   26.40000        1       NA 0.03787879       NA
-5     947     NA   128     NA   26.40000        1       NA 0.03787879       NA
-6     947     NA   154     NA   26.40000        1       NA 0.03787879       NA
-7     947     NA   181     NA   26.40000        1       NA 0.03787879       NA
-8     947     NA   207     NA   26.40000        1       NA 0.03787879       NA
-9     947     NA   234     NA   26.40000        1       NA 0.03787879       NA
-10    947     NA   260     NA   26.40000        1       NA 0.03787879       NA
-11    947     NA   286     NA   26.40000        1       NA 0.03787879       NA
-12    947     NA   313     NA   26.40000        1       NA 0.03787879       NA
-13    947     NA   339     NA   26.40000        1       NA 0.03787879       NA
-14    947     NA   366     NA   26.40000        1       NA 0.03787879       NA
-15    947     NA   392     NA   26.40000        1       NA 0.03787879       NA
-16    470     NA    16     NA   26.33333        1       NA 0.03797468       NA
-17    470     NA    42     NA   26.33333        1       NA 0.03797468       NA
-18    470     NA    69     NA   26.33333        1       NA 0.03797468       NA
-19    470     NA    95     NA   26.33333        1       NA 0.03797468       NA
-20    470     NA   121     NA   26.33333        1       NA 0.03797468       NA
+Listing of the largest 20 theoretical household base weight[1] ID_PSU     ID_SSU     ID_HH      ID_OTH     THEOR_HBWT PROB_PSU   PROB_SSU   PROB_HH    PROB_OTH  
+<0 rows> (or 0-length row.names)
 
 Listing of the smallest 20 PROB_PERS values   ID_PSU ID_SSU ID_HH   CASEID ID_OTH PROB_SMPFLG1 PROB_SMPFLG2 PROB_SMPFLG3 PROB_PERS NUMELG1 NUMSEL1 NUMELG2 NUMSEL2 NUMELG3 NUMSEL3
 1    2806     NA    20 15882400     NA            1           NA           NA 0.2500000       8       2       0       0       0       0
@@ -6564,30 +6540,11 @@ Listing of the largest 20 PROB_PERS values
 20     17     NA   140 10046692     NA            1           NA           NA         1       1       1       0       0       0       0
 
 Listing of the largest 20 theoretical person base weight
-   ID_PSU ID_SSU ID_HH ID_OTH      PERSID THEOR_PBWT  PROB_PSU PROB_SSU    PROB_HH PROB_OTH PROB_PERS
-1    2806     NA    20     NA 15882400046   98.90936 0.2884796       NA 0.14018692       NA 0.2500000
-2    2806     NA    20     NA 15882400082   98.90936 0.2884796       NA 0.14018692       NA 0.2500000
-3    2106     NA    37     NA 14940132046   86.59894 0.3799123       NA 0.10638298       NA 0.2857143
-4    2106     NA    37     NA 14940132073   86.59894 0.3799123       NA 0.10638298       NA 0.2857143
-5    2841     NA    98     NA 15920096037   86.54569 0.3181364       NA 0.12711864       NA 0.2857143
-6    2841     NA    98     NA 15920096055   86.54569 0.3181364       NA 0.12711864       NA 0.2857143
-7    3044     NA    85     NA 16154490019   86.54569 0.2992639       NA 0.13513514       NA 0.2857143
-8    3044     NA    85     NA 16154490055   86.54569 0.2992639       NA 0.13513514       NA 0.2857143
-9    1017     NA   104     NA 12441341028   74.83404 0.5826225       NA 0.06880734       NA 0.3333333
-10   1020     NA   164     NA 12448692028   74.83404 0.6013306       NA 0.06666667       NA 0.3333333
-11   1020     NA   194     NA 12448999037   74.83404 0.6013306       NA 0.06666667       NA 0.3333333
-12   1022     NA   106     NA 12452606046   74.83404 0.6601274       NA 0.06072874       NA 0.3333333
-13   1023     NA   137     NA 12455386019   74.83404 0.6494371       NA 0.06172840       NA 0.3333333
-14   1033     NA   195     NA 12476848028   74.83404 0.6200387       NA 0.06465517       NA 0.3333333
-15   1035     NA     2     NA 12479931028   74.83404 0.7322870       NA 0.05474453       NA 0.3333333
-16   1035     NA    20     NA 12480111019   74.83404 0.7322870       NA 0.05474453       NA 0.3333333
-17   1035     NA   111     NA 12481026037   74.83404 0.7322870       NA 0.05474453       NA 0.3333333
-18   1035     NA   111     NA 12481026064   74.83404 0.7322870       NA 0.05474453       NA 0.3333333
-19   1037     NA   125     NA 12486212019   74.83404 0.6360741       NA 0.06302521       NA 0.3333333
-20   1039     NA   115     NA 12490592019   74.83404 0.6628000       NA 0.06048387       NA 0.3333333
+ [1] ID_PSU     ID_SSU     ID_HH      ID_OTH     PERSID     THEOR_PBWT PROB_PSU   PROB_SSU   PROB_HH    PROB_OTH   PROB_PERS 
+<0 rows> (or 0-length row.names)
 
 [1] "CY2_FINAL_SDIF_LVA.CSV"
-'data.frame':	27906 obs. of  184 variables:
+'data.frame':	27906 obs. of  183 variables:
  $ CNTRYID              : num  428 428 428 428 428 428 428 428 428 428 ...
  $ CNTRY                : chr  "LVA" "LVA" "LVA" "LVA" ...
  $ CASEID               : num  10002698 10002858 10003015 10003176 10003336 ...
@@ -6681,10 +6638,10 @@ Listing of the largest 20 theoretical person base weight
  $ CONTACTTIME3         : num  3 1 3 1 1 3 3 1 2 1 ...
  $ CONTACTTOTAL         : num  4 3 6 1 3 3 4 4 5 3 ...
  $ ENDSCR               : chr  "" "" "2023-04-24T20:10:53Z" "" ...
- $ PROB_OVERALL_HH      : num  0.0404 0.0404 0.0404 0.0404 0.0404 ...
- $ PROB_OVERALL_PERS    : num  NA NA NA NA NA ...
- $ THEOR_HBWT           : num  24.7 24.7 24.7 24.7 24.7 ...
- $ THEOR_PBWT           : num  NA NA NA NA NA ...
+ $ PROB_OVERALL_HH      : num  NA NA NA NA NA NA NA NA NA NA ...
+ $ PROB_OVERALL_PERS    : num  NA NA NA NA NA NA NA NA NA NA ...
+ $ THEOR_HBWT           : num  NA NA NA NA NA NA NA NA NA NA ...
+ $ THEOR_PBWT           : num  NA NA NA NA NA NA NA NA NA NA ...
  $ DOBYY                : num  NA NA NA NA NA ...
  $ DOBMM                : num  NA NA NA NA NA NA NA NA NA 1 ...
  $ CALCAGE              : num  NA NA NA NA NA NA NA NA NA 35 ...
@@ -6769,7 +6726,6 @@ Listing of the largest 20 theoretical person base weight
  $ TOT_NUMSEL           : num  NA NA 0 NA NA NA NA NA NA 1 ...
  $ CONTACTTIME_FLG      : chr  "Household" "Household" "Household" "Household" ...
  $ CONTACTTOTAL_CHK     : num  4 3 6 1 3 3 4 4 5 3 ...
- $ DIFF_PROB_OVERALL_HH : num  -0.000000000000188 -0.000000000000188 -0.000000000000188 -0.000000000000188 -0.000000000000188 ...
  $ DISP_MAIN_CHK        : chr  "NA" "NA" "NA" "NA" ...
  $ COMPLETEFLG_CHK      : num  0 0 0 0 0 0 0 0 0 1 ...
 NULL
